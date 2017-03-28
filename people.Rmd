@@ -32,7 +32,7 @@ output:
 
 <tr>
 <td>Dr. Essia Hamouda<img src="images/essia.jpg" alt="" /></td>
-<td><strong>Specialty: </strong> Networking <br> <br>
+<td><strong>Specialty: </strong> Computer Networks <br> <br>
     <strong>Teaches: </strong>CSCI 144, CSCI 385, CSCI 446, CSCI 485 <br> <br>
     <strong>Contact: </strong> ehamouda@csuchico.edu 
 </td>
